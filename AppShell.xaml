@@ -1,0 +1,11 @@
+<Shell
+    x:Class="DarkMode.AppShell"
+    xmlns:local="clr-namespace:DarkMode"
+    Title="DarkMode">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>
