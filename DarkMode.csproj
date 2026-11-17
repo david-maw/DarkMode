@@ -16,6 +16,7 @@
 		<RootNamespace>DarkMode</RootNamespace>
 		<UseMaui>true</UseMaui>
 		<UseMaterial3>true</UseMaterial3>
+		<MauiAndroidSystemBarsUseMauiChrome>true</MauiAndroidSystemBarsUseMauiChrome>
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
